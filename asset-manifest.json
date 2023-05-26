@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-datetime/static/css/main.f4dc0e1d.css",
+    "main.js": "/react-datetime/static/js/main.cdad8723.js",
+    "index.html": "/react-datetime/index.html",
+    "main.f4dc0e1d.css.map": "/react-datetime/static/css/main.f4dc0e1d.css.map",
+    "main.cdad8723.js.map": "/react-datetime/static/js/main.cdad8723.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4dc0e1d.css",
+    "static/js/main.cdad8723.js"
+  ]
+}
